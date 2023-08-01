@@ -24,7 +24,7 @@ const quizArray = [
     correct: 'd'
     },
     {
-    question: 'India\'s National Aniamal?',
+    question: 'India\'s National Animal?',
     a: 'Lion' ,
     b: 'Tiger' ,
     c: 'Zebra' ,
